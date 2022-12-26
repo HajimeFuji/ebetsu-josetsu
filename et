@@ -1,0 +1,40 @@
+[33m90b19db[m[33m ([m[1;36mHEAD -> [m[1;32mHajime[m[33m)[m HEAD@{0}: pull origin Hajime: Merge made by the 'recursive' strategy.
+[33me77fc0b[m HEAD@{1}: commit: レスポンシブなど全体修正
+[33m3b3dbed[m HEAD@{2}: checkout: moving from test to Hajime
+[33m050a31f[m[33m ([m[1;32mtest[m[33m)[m HEAD@{3}: checkout: moving from Hajime to test
+[33m3b3dbed[m HEAD@{4}: checkout: moving from test to Hajime
+[33m050a31f[m[33m ([m[1;32mtest[m[33m)[m HEAD@{5}: checkout: moving from Hajime to test
+[33m3b3dbed[m HEAD@{6}: commit: 微調整
+[33mfe6af7e[m HEAD@{7}: commit: レスポンシブ微調整
+[33m4d98976[m HEAD@{8}: checkout: moving from test to Hajime
+[33m050a31f[m[33m ([m[1;32mtest[m[33m)[m HEAD@{9}: checkout: moving from Hajime to test
+[33m4d98976[m HEAD@{10}: commit (merge): VendorListItem.vue スマホ対応
+[33m96e55a4[m HEAD@{11}: checkout: moving from test to Hajime
+[33m050a31f[m[33m ([m[1;32mtest[m[33m)[m HEAD@{12}: pull origin Hajime: Fast-forward
+[33m142760f[m HEAD@{13}: checkout: moving from Hajime to test
+[33m96e55a4[m HEAD@{14}: commit: 検索画面スマホ対応途中まで
+[33ma0f8f08[m HEAD@{15}: commit: SearchView.vue アコーディオンメニューPC版まで
+[33mc0cd4ae[m[33m ([m[1;32mdevelop[m[33m)[m HEAD@{16}: merge develop: Fast-forward
+[33m7503dd5[m HEAD@{17}: checkout: moving from test to Hajime
+[33m142760f[m HEAD@{18}: checkout: moving from develop to test
+[33mc0cd4ae[m[33m ([m[1;32mdevelop[m[33m)[m HEAD@{19}: pull origin Hajime: Merge made by the 'recursive' strategy.
+[33m142760f[m HEAD@{20}: checkout: moving from develop to develop
+[33m142760f[m HEAD@{21}: checkout: moving from test to develop
+[33m142760f[m HEAD@{22}: checkout: moving from Hajime to test
+[33m7503dd5[m HEAD@{23}: checkout: moving from test to Hajime
+[33m142760f[m HEAD@{24}: checkout: moving from develop to test
+[33m142760f[m HEAD@{25}: commit: データ取得第一弾
+[33md046a2e[m HEAD@{26}: checkout: moving from Hajime to develop
+[33m7503dd5[m HEAD@{27}: checkout: moving from develop to Hajime
+[33md046a2e[m HEAD@{28}: pull origin Hajime: Fast-forward
+[33m07e23a1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{29}: checkout: moving from Hajime to develop
+[33m7503dd5[m HEAD@{30}: commit: Search.view 上部レスポンス対応まで
+[33m9c158be[m HEAD@{31}: commit: search.view 上半分まで
+[33m111f9f8[m HEAD@{32}: commit: HomeViewレスポンシブまでいったん完成
+[33m9c8f11f[m HEAD@{33}: commit: top page 継続
+[33m16aceb4[m HEAD@{34}: commit: HomeViewデザイン開始
+[33m6116bf4[m HEAD@{35}: commit: second commit
+[33m01ed6a4[m HEAD@{36}: commit: router導入
+[33m63c8691[m HEAD@{37}: commit: first commit
+[33m07e23a1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{38}: checkout: moving from develop to Hajime
+[33m07e23a1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{39}: clone: from https://github.com/majimajico55/ebetsu-josetsu.git
